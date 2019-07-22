@@ -1,5 +1,5 @@
 # Bioreactor-data-analysis
-Target prediction and feature analysis
+This repository contains the Jupyter notebooks for data analysis of a bioreactor system, namely the prediction of a target variable (removal rate of a toxic species) and feature analysis (statistically-guided methods on identifying the "most important" variables for prediction).
 
 Prediction and univariate feature selection notebooks: Microbio_FinalStep_NeuralNets.ipynb, Microbio_FinalStep_SVM.ipynb, Microbio_FinalStep_RandomForests.ipynb
 
